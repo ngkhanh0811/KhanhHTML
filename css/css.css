@@ -1,0 +1,22 @@
+body{
+}
+h1{
+    background-color: #666b73;
+    text-align: center;
+    font-size: 30px;
+    font-family: ;
+}
+wrapper{
+    width 940px;
+    border: 2px saddlebrown;
+    margin-left: 10px
+}
+ul li{
+    position: relative;
+    left: 20px;
+}
+footer {
+    background-color: slategray;
+    clear: both;
+    height: 30px;
+}
